@@ -6,7 +6,7 @@ This project analyzes Chicago’s bike-share system to uncover station-level usa
 and member usage. Visualization (t-SNE and geospatial mapping) revealed clear suburban vs. downtown patterns, with hotspots in the city center averaging 90+ trips per day. 
 Statistical tests and Random Forest feature importance confirmed that total trips and average trips per active day were the strongest differentiators across clusters.
 
-Download [Analysis.ipynb](https://github.com/jayirby2/bikeshare/blob/main/Analysis.ipynb) and run cells view code, analysis, and visualizations. Or, view the file in GitHub.
+Download [Analysis.ipynb](https://github.com/jayirby2/bikeshare/blob/main/Analysis.ipynb) and the bike share [.csv file](https://www.dropbox.com/scl/fi/al7m43ziyd1vlcv0i5s27/Analysis.ipynb?rlkey=gb16i2do1etu4h5nacu5zr7jv&st=9xj54p7i&dl=0) to run cells, specifcally for the Plotly geospatial visualization. Or, view the file in GitHub.
 
 <img width="1548" height="1203" alt="image" src="https://github.com/user-attachments/assets/39b50c0f-d79f-4f0a-91e0-4342d0963de9" />
 
